@@ -7,3 +7,17 @@ Completed the Pyramid of Pain room on TryHackMe.
 - How the Pyramid of Pain helps prioritize threat intelligence indicators.
 - The higher you move up the pyramid (e.g., TTPs, Tools), the more impact you have on an adversary’s campaign.
 - The value of using high-fidelity IOCs (like behavioral patterns) over low-value indicators (like file hashes).
+
+## ✅ Cyber Kill Chain – TryHackMe  
+Completed the Cyber Kill Chain room on TryHackMe.  
+**What I learned:**  
+- The Cyber Kill Chain maps the steps adversaries take to carry out an attack.  
+- Understanding each stage helps defenders disrupt or block attackers earlier in the chain.  
+- The model is useful for both red and blue team strategies.
+
+## ✅ Unified Kill Chain – TryHackMe  
+Completed the Unified Kill Chain room on TryHackMe.  
+**What I learned:**  
+- The Unified Kill Chain combines the strengths of multiple models for a more complete view of adversary behavior.  
+- It covers 18 phases across initial access, execution, and post-compromise.  
+- Helps prioritize defensive efforts by identifying attack patterns and breaking them down.
